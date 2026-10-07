@@ -8,4 +8,6 @@
 
 # PCA-DE steganography
 
+<img width="958" height="511" alt="image" src="https://github.com/user-attachments/assets/c48b1e9a-c47e-4e5b-bc9e-ca913518cb12" />
+
 <img width="959" height="515" alt="image" src="https://github.com/user-attachments/assets/7013f640-fb20-499a-b318-e7049cc53cf8" />
